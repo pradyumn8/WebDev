@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.container {
+    background-image: url("grass.jpg");
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.card {
+    width: 260px;
+    height: 140px;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 25px;
+    backdrop-filter: blur(5px);
+    background: linear-gradient(to right bottom,
+            rgb(255, 255, 255, .555),
+            rgb(255, 255, 255, .120));
+    overflow: hidden;
+}
+
+.card::before {
+    content: "";
+    background-color: rgb(255, 255, 255, .5);
+    display: flex;
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transform: skew(20deg) translateX(400%);
+    transition: .5s;
+}
+
+.card:hover::before {
+    transform: skew(20deg) translateX(-130%);
+
+}
+
+.bank-name {
+    font-weight: 800;
+    text-align: end;
+
+}
+
+.sim {
+    bottom: 34px;
+    position: relative;
+}
+
+.number {
+    bottom: 54px;
+    position: relative;
+    text-align: center;
+    font-weight: 800;
+    letter-spacing: 3px;
+}
+
+img {
+    width: 54px;
+}
+
+.owner-details {
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    bottom: 67px;
+    position: relative;
+}
