@@ -18,4 +18,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/5e0eb1c563d553a5c9385d5e2bb1c3660acbda44/GlassDebit">Glassomorphism Effect Card ✓</a></td>
             <td><a href="https://glassomorphism.netlify.app/">Live Project🌐</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/af94505d2e194c2c56847c839dcbbfc940cfbd50/ContactForm">Contact Form ✓</a></td>
+            <td><a href="https://contacts-form.netlify.app/">Live Project🌐</a></td>
+        </tr>
  </table>
