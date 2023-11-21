@@ -22,4 +22,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/af94505d2e194c2c56847c839dcbbfc940cfbd50/ContactForm">Contact Form ✓</a></td>
             <td><a href="https://contacts-form.netlify.app/">Live Project🌐</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/7ac5f33da3392383c96f87f99a19e6204bdd6e06/PriceCard">Price Card ✓</a></td>
+            <td><a href="https://pricescard.netlify.app/">Live Project🌐</a></td>
+        </tr>
  </table>
