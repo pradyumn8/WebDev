@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ededed;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    
+}
+.card{
+    width: 230px;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 0 2px 10px 2px #000;
+    background-color: #fff;
+    border-radius: 25px;
+    margin-bottom: 20px;
+
+    padding: 5px;
+}
+.middle{
+    z-index: 1;
+    height: 400px;
+    color: #fff;
+    background: linear-gradient(45deg, rgba(2,131,186,1) 29%, 
+    rgba(62,187,240,1) 57%); 
+}
+.details{
+    width: 70%;
+    margin: auto;
+}
+.name{
+    font-weight: 800;
+    font-size: 20px;
+}
+.package{
+    font-weight: 800;
+    font-size: 33px;
+}
+.card-btn{
+    width: 100%;
+    padding: 5px;
+    letter-spacing: 3px;
+    text-transform:uppercase;
+    font-weight: 800;
+    background-color: aquamarine;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+.btn-one{
+    background: linear-gradient(45deg, rgba(2,131,186,1) 29%, 
+    rgba(62,187,240,1) 57%); 
+
+    transition: .5s;
+    
+}
+.btn-one:hover{
+    background: linear-gradient(45deg, rgb(0,26,37) 29%, 
+    rgb(3,58,82) 57%); 
+    font-size: 14px;
+}
+.btn-two{
+    background: #fff;
+    color: aqua;
+    margin: 20px 0;
+    transition: .5s;
+    
+}
+.btn-two:hover{
+    background: linear-gradient(45deg, rgb(0,26,37) 29%, 
+    rgb(3,58,82) 57%); 
+    color: #fff;
+    font-size: 14px;
+}
+
+@media (max-width:730px) {
+    .container{
+        flex-direction: column;
+    }
+    .card{
+        margin: 15px;
+    }
+    .middle{
+        height: auto;
+    }
+}
