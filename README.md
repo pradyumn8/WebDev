@@ -26,4 +26,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/7ac5f33da3392383c96f87f99a19e6204bdd6e06/PriceCard">Price Card ✓</a></td>
             <td><a href="https://pricescard.netlify.app/">Live Project🌐</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/b928aa59a93bdaa90fc250054986746fec373c3f/ProductItem">Product Item ✓</a></td>
+            <td><a href="https://product-item.netlify.app/">Live Project🌐</a></td>
+        </tr>
  </table>
