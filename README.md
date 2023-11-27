@@ -39,7 +39,11 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://mousetrack.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/00f016ee256f1570faa402fe5e6531e7a6ad1a3d/Key%20Events">Interactive Key Events ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/00f016ee256f1570faa402fe5e6531e7a6ad1a3d/Key%20Events">BMI Calculater Application ✓</a></td>
             <td><a href="https://interactive-keyevents.netlify.app/">Live Project🌐</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/61cd0dfa77b347b57ffe54f19702d1f8dbf99c52/BMI%20Calculator">Interactive Key Events ✓</a></td>
+            <td><a href="https://bmi-calculator-webapp.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
