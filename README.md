@@ -46,4 +46,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/61cd0dfa77b347b57ffe54f19702d1f8dbf99c52/BMI%20Calculator">Interactive Key Events ✓</a></td>
             <td><a href="https://bmi-calculator-webapp.netlify.app/">Live Project🌐</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/1cf5723f52b9ba7d06a24e550ea4a142f65d1404/pwdStrengthChecker">Password Strength Checker ✓</a></td>
+            <td><a href="https://pwdstrengthchecker.netlify.app/">Live Project🌐</a></td>
+        </tr>
  </table>
