@@ -54,4 +54,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/a9e1b6cfa5db73837daa5f80aa149dee22ccef36/Piano%20WebApp">Digital Piano Application ✓</a></td>
             <td><a href="https://digital-piano-app.netlify.app/">Live Project🌐</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/1d65999936d7356543b704a67424d1340cacfb0f/bgColorChanger">Background Color Changer ✓</a></td>
+            <td><a href="https://bgcolor-switcher.netlify.app/">Live Project🌐</a></td>
+        </tr>
  </table>
