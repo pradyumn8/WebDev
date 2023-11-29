@@ -50,4 +50,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/1cf5723f52b9ba7d06a24e550ea4a142f65d1404/pwdStrengthChecker">Password Strength Checker ✓</a></td>
             <td><a href="https://pwdstrengthchecker.netlify.app/">Live Project🌐</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/a9e1b6cfa5db73837daa5f80aa149dee22ccef36/Piano%20WebApp">Digital Piano Application ✓</a></td>
+            <td><a href="https://digital-piano-app.netlify.app/">Live Project🌐</a></td>
+        </tr>
  </table>
