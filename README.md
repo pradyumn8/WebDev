@@ -59,7 +59,7 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://bgcolor-switcher.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/2f07ded9cf0ce854de380227b7b8fc99f139908d/HEX%20Color%20Generator">Background Color Changer ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/2f07ded9cf0ce854de380227b7b8fc99f139908d/HEX%20Color%20Generator">HEX Color Generator ✓</a></td>
             <td><a href="https://hex-color-switcher.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
