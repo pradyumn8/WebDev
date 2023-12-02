@@ -64,6 +64,6 @@ In addition to the templates themselves, the project also includes detailed docu
         </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/bc072d027fd74e68204b7d48526f9834fd37394e/HTML5%20Canvas">HTML5 Canvas ✓</a></td>
-            <td><a href="https://hex-color-switcher.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://canvas-html5.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
