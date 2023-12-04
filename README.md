@@ -76,6 +76,6 @@ In addition to the templates themselves, the project also includes detailed docu
         </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/fa8d3479628afe44a939c3aaa562d2246558b582/CustomRangeBar">Custom Range Slider ✓</a></td>
-            <td><a href="https://custom-range-bar.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
