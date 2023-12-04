@@ -75,7 +75,7 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://custom-range-bar.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/fa8d3479628afe44a939c3aaa562d2246558b582/CustomRangeBar">Expanding Cards ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/8d1a6f289c2e2456380071a24a7a046f6701a70e/ExpandingCards">Expanding Cards ✓</a></td>
             <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
