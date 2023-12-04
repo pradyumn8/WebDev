@@ -71,7 +71,7 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://ripple-effect-btn.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/cd1e0a2a809d28f3bf75077d3ae3296eda42c8dd/btnRippleEffect">Button Ripple Effect ✓</a></td>
-            <td><a href="https://ripple-effect-btn.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/cd1e0a2a809d28f3bf75077d3ae3296eda42c8dd/btnRippleEffect"></a></td>
+            <td><a href="https://custom-range-bar.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
