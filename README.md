@@ -83,6 +83,6 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
         </tr>
          <tr>
-   
+            <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
