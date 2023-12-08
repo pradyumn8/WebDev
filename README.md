@@ -79,7 +79,7 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
         </tr>
          <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/8d1a6f289c2e2456380071a24a7a046f6701a70e/ExpandingCards">Expanding Cards ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/995b4940b24b6d40b8f6f58bea4120011678a645/RatingProject">Expanding Cards ✓</a></td>
             <td><a href="https://rating-experiences.netlify.app/">Live Project🌐</a></td>
         </tr>
          <tr>
