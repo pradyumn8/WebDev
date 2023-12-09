@@ -84,6 +84,6 @@ In addition to the templates themselves, the project also includes detailed docu
         </tr>
          <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/1ef35eaed537bf74bab204e5de75e8cdc3c564f6/Searching">Searching ✓</a></td>
-            <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://searching-bar.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
