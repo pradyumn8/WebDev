@@ -92,6 +92,7 @@ In addition to the templates themselves, the project also includes detailed docu
         </tr>
   <tr>
    <td><a href="https://github.com/pradyumn8/WebDev/tree/16890fdafa6d4422d14d947260b7903f99ea8e9a/Loading%20Animation">Kinetic Loading Animation ✓</a></td>
-            
+            <td><a href="https://kinetic-loading-animation.netlify.app/">Live Project🌐</a></td>
+        
             </tr>
  </table>
