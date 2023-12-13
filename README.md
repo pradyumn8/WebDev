@@ -91,7 +91,7 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://kinetic-loading-animation.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
-            <td><a href=https://github.com/pradyumn8/WebDev/tree/e4440875ff0455d8aef3ee286d47695ec2e4ff1a/Live%20User">Live User Filter ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/e4440875ff0455d8aef3ee286d47695ec2e4ff1a/Live%20User">Live User Filter ✓</a></td>
             <td><a href="https://live-user.netlify.app/">Live Project🌐</a></td>
         </tr>
  </table>
