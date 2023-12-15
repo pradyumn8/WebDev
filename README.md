@@ -94,9 +94,8 @@ In addition to the templates themselves, the project also includes detailed docu
             <td><a href="https://github.com/pradyumn8/WebDev/tree/e4440875ff0455d8aef3ee286d47695ec2e4ff1a/Live%20User">Live User Filter ✓</a></td>
             <td><a href="https://live-user.netlify.app/">Live Project🌐</a></td>
         </tr>
-        
          <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/e4440875ff0455d8aef3ee286d47695ec2e4ff1a/Live%20User">Live User Filter ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/eca76fc20a2effb5d90e6689dd7fe566f1e699d9/pwdGenerator"></a></td>
            <td><a href="https://live-user.netlify.app/">Live Project🌐</a></td>       
         </tr>
  </table>
