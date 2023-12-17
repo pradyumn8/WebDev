@@ -103,6 +103,6 @@ In addition to the templates themselves, the project also includes detailed docu
            <td><a href="https://passsssword-generator.netlify.app/">Live Project🌐</a></td>       
         </tr>    
          <tr>
-             </tr>
-  
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/eca76fc20a2effb5d90e6689dd7fe566f1e699d9/pwdGenerator">Password Generator ✓</a></td>
+       </tr> 
  </table>
