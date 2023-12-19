@@ -103,6 +103,6 @@ In addition to the templates themselves, the project also includes detailed docu
            <td><a href="https://passsssword-generator.netlify.app/">Live Project🌐</a></td>       
         </tr>    
          <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/a4c50e3539493181c09a5ec573313f59f3b93aa6/NoteWave">      
+            <td><a href="https://github.com/pradyumn8/WebDev/tree/a4c50e3539493181c09a5ec573313f59f3b93aa6/NoteWave">  NoteWave ✓</a></td>
        </tr> 
  </table>
