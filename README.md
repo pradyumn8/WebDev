@@ -111,7 +111,7 @@ In addition to the templates themselves, the project also includes detailed docu
               <td><a href="https://progresssstep.netlify.app/">Live Project🌐</a></td> 
        </tr> 
         <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/2f0a3c8690fcac6c2cad508bada786b29cf405dd/ProgressStep">Progress Steps ✓</a></td>
+               <td><a href="https://github.com/pradyumn8/WebDev/tree/9c9a55b89f59b2c8b9f412c97e24519cd806f1a7/QuizApp">Progress Steps ✓</a></td>
               <td><a href="https://progresssstep.netlify.app/">Live Project🌐</a></td> 
        </tr> 
  </table>
