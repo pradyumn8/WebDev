@@ -112,6 +112,6 @@ In addition to the templates themselves, the project also includes detailed docu
        </tr> 
         <tr>
                <td><a href="https://github.com/pradyumn8/WebDev/tree/9c9a55b89f59b2c8b9f412c97e24519cd806f1a7/QuizApp">Quiz App ✓</a></td>
-              <td><a href="https://progresssstep.netlify.app/">Live Project🌐</a></td> 
+              <td><a href="https://quizzzwebapp.netlify.app/">Live Project🌐</a></td> 
        </tr> 
  </table>
