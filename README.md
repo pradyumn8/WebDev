@@ -115,7 +115,7 @@ In addition to the templates themselves, the project also includes detailed docu
               <td><a href="https://quizzzwebapp.netlify.app/">Live Project🌐</a></td> 
        </tr> 
         <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/e62885098dff044c7dc7bea8f02d01669ec2796d/Random%20Choice%20Picker">Quiz App ✓</a></td>
+               <td><a href="https://github.com/pradyumn8/WebDev/tree/e62885098dff044c7dc7bea8f02d01669ec2796d/Random%20Choice%20Picker">Random Choice Picker ✓</a></td>
               <td><a href="https://quizzzwebapp.netlify.app/">Live Project🌐</a></td> 
        </tr> 
 
