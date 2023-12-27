@@ -120,6 +120,6 @@ In addition to the templates themselves, the project also includes detailed docu
        </tr> 
         <tr>
                <td><a href="https://github.com/pradyumn8/WebDev/tree/dc6cb1a7347530e1f22054f1a5b5e92cec8d63fe/TodoList">Todo List ✓</a></td>
-              <td><a href="https://random-choice-piccker.netlify.app/">Live Project🌐</a></td> 
+              <td><a href="https://02d0-list.netlify.app/">Live Project🌐</a></td> 
        </tr> 
  </table>
