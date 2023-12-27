@@ -119,7 +119,7 @@ In addition to the templates themselves, the project also includes detailed docu
               <td><a href="https://random-choice-piccker.netlify.app/">Live Project🌐</a></td> 
        </tr> 
         <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/e62885098dff044c7dc7bea8f02d01669ec2796d/Random%20Choice%20Picker">Todo List ✓</a></td>
+               <td><a href="https://github.com/pradyumn8/WebDev/tree/dc6cb1a7347530e1f22054f1a5b5e92cec8d63fe/TodoList">Todo List ✓</a></td>
               <td><a href="https://random-choice-piccker.netlify.app/">Live Project🌐</a></td> 
        </tr> 
  </table>
