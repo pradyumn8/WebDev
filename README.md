@@ -106,40 +106,11 @@ Here is a list of templates included in this repository along with their live de
 - [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/1ef35eaed537bf74bab204e5de75e8cdc3c564f6/Searching)
 - [Live Project🌐](https://searching-bar.netlify.app/)
 
-  
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/e4440875ff0455d8aef3ee286d47695ec2e4ff1a/Live%20User">Live User Filter ✓</a></td>
-            <td><a href="https://live-user.netlify.app/">Live Project🌐</a></td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/eca76fc20a2effb5d90e6689dd7fe566f1e699d9/pwdGenerator">Password Generator ✓</a></td>
-           <td><a href="https://passsssword-generator.netlify.app/">Live Project🌐</a></td>       
-        </tr>
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/eca76fc20a2effb5d90e6689dd7fe566f1e699d9/pwdGenerator">Password Generator ✓</a></td>
-           <td><a href="https://passsssword-generator.netlify.app/">Live Project🌐</a></td>       
-        </tr>    
-         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/a4c50e3539493181c09a5ec573313f59f3b93aa6/NoteWave">NoteWave ✓</a></td>
-             <td><a href="https://note-wave.netlify.app/">Live Project🌐</a></td>    
-       </tr> 
-        <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/2f0a3c8690fcac6c2cad508bada786b29cf405dd/ProgressStep">Progress Steps ✓</a></td>
-              <td><a href="https://progresssstep.netlify.app/">Live Project🌐</a></td> 
-       </tr> 
-        <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/9c9a55b89f59b2c8b9f412c97e24519cd806f1a7/QuizApp">Quiz App ✓</a></td>
-              <td><a href="https://quizzzwebapp.netlify.app/">Live Project🌐</a></td> 
-       </tr> 
-        <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/e62885098dff044c7dc7bea8f02d01669ec2796d/Random%20Choice%20Picker">Random Choice Picker ✓</a></td>
-              <td><a href="https://random-choice-piccker.netlify.app/">Live Project🌐</a></td> 
-       </tr> 
-        <tr>
-               <td><a href="https://github.com/pradyumn8/WebDev/tree/dc6cb1a7347530e1f22054f1a5b5e92cec8d63fe/TodoList">Todo List ✓</a></td>
-              <td><a href="https://02d0-list.netlify.app/">Live Project🌐</a></td> 
-       </tr> 
- </table>
+  ### Kinetic Loading Animation ✓
+- **Description:** Implementation of a kinetic loading animation.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/16890fdafa6d4422d14d947260b7903f99ea8e9a/Loading%20Animation)
+- [Live Project🌐](https://kinetic-loading-animation.netlify.app/)
+
 
 
 
