@@ -16,6 +16,17 @@ The repository includes a diverse range of templates, catering to various needs 
 
 Here is a list of templates included in this repository along with their live demos:
 
+### Glassomorphism Effect Card ✓
+- **Description:** Implementation of Glassomorphism effect on a card.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/5e0eb1c563d553a5c9385d5e2bb1c3660acbda44/GlassDebit)
+- [Live Project🌐](https://glassomorphism.netlify.app/)
+
+### Contact Form ✓
+- **Description:** A simple contact form implementation.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/af94505d2e194c2c56847c839dcbbfc940cfbd50/ContactForm)
+- [Live Project🌐](https://contacts-form.netlify.app/)
+
+
         <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/2f07ded9cf0ce854de380227b7b8fc99f139908d/HEX%20Color%20Generator">HEX Color Generator ✓</a></td>
             <td><a href="https://hex-color-switcher.netlify.app/">Live Project🌐</a></td>
