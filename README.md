@@ -81,15 +81,17 @@ Here is a list of templates included in this repository along with their live de
 - [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/bc072d027fd74e68204b7d48526f9834fd37394e/HTML5%20Canvas)
 - [Live Project🌐](https://canvas-html5.netlify.app/)
 
-     
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/8d1a6f289c2e2456380071a24a7a046f6701a70e/ExpandingCards">Expanding Cards ✓</a></td>
-            <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/995b4940b24b6d40b8f6f58bea4120011678a645/RatingProject">Rating ✓</a></td>
-            <td><a href="https://rating-experiences.netlify.app/">Live Project🌐</a></td>
-        </tr>
+### Button Ripple Effect ✓
+- **Description:** Implementation of a button ripple effect.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/cd1e0a2a809d28f3bf75077d3ae3296eda42c8dd/btnRippleEffect)
+- [Live Project🌐](https://ripple-effect-btn.netlify.app/)
+
+### Custom Range Slider ✓
+- **Description:** Implementation of a custom range slider.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/fa8d3479628afe44a939c3aaa562d2246558b582/CustomRangeBar)
+- [Live Project🌐](https://custom-range-bar.netlify.app/)
+
+
          <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/1ef35eaed537bf74bab204e5de75e8cdc3c564f6/Searching">Searching ✓</a></td>
             <td><a href="https://searching-bar.netlify.app/">Live Project🌐</a></td>
