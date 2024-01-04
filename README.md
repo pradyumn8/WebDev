@@ -111,8 +111,40 @@ Here is a list of templates included in this repository along with their live de
 - [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/16890fdafa6d4422d14d947260b7903f99ea8e9a/Loading%20Animation)
 - [Live Project🌐](https://kinetic-loading-animation.netlify.app/)
 
+### Live User Filter ✓
+- **Description:** Implementation of a live user filter.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/e4440875ff0455d8aef3ee286d47695ec2e4ff1a/Live%20User)
+- [Live Project🌐](https://live-user.netlify.app/)
 
+### Password Generator ✓
+- **Description:** Tool for generating passwords.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/eca76fc20a2effb5d90e6689dd7fe566f1e699d9/pwdGenerator)
+- [Live Project🌐](https://passsssword-generator.netlify.app/)
 
+### NoteWave ✓
+- **Description:** Implementation of NoteWave.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/a4c50e3539493181c09a5ec573313f59f3b93aa6/NoteWave)
+- [Live Project🌐](https://note-wave.netlify.app/)
+
+### Progress Steps ✓
+- **Description:** Implementation of progress steps.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/2f0a3c8690fcac6c2cad508bada786b29cf405dd/ProgressStep)
+- [Live Project🌐](https://progresssstep.netlify.app/)
+
+### Quiz App ✓
+- **Description:** Implementation of a quiz app.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/9c9a55b89f59b2c8b9f412c97e24519cd806f1a7/QuizApp)
+- [Live Project🌐](https://quizzzwebapp.netlify.app/)
+
+### Random Choice Picker ✓
+- **Description:** Tool for picking random choices.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/e62885098dff044c7dc7bea8f02d01669ec2796d/Random%20Choice%20Picker)
+- [Live Project🌐](https://random-choice-piccker.netlify.app/)
+
+### Todo List ✓
+- **Description:** Implementation of a todo list.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/dc6cb1a7347530e1f22054f1a5b5e92cec8d63fe/TodoList)
+- [Live Project🌐](https://02d0-list.netlify.app/)
 
 
 ## Usage
