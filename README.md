@@ -81,14 +81,7 @@ Here is a list of templates included in this repository along with their live de
 - [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/bc072d027fd74e68204b7d48526f9834fd37394e/HTML5%20Canvas)
 - [Live Project🌐](https://canvas-html5.netlify.app/)
 
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/cd1e0a2a809d28f3bf75077d3ae3296eda42c8dd/btnRippleEffect">Button Ripple Effect ✓</a></td>
-            <td><a href="https://ripple-effect-btn.netlify.app/">Live Project🌐</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/fa8d3479628afe44a939c3aaa562d2246558b582/CustomRangeBar">Custom Range Slider ✓</a></td>
-            <td><a href="https://custom-range-bar.netlify.app/">Live Project🌐</a></td>
-        </tr>
+     
         <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/8d1a6f289c2e2456380071a24a7a046f6701a70e/ExpandingCards">Expanding Cards ✓</a></td>
             <td><a href="https://expanding-caards.netlify.app/">Live Project🌐</a></td>
