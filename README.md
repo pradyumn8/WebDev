@@ -70,14 +70,17 @@ Here is a list of templates included in this repository along with their live de
 - **Description:** Tool for changing background colors.
 - [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/1d65999936d7356543b704a67424d1340cacfb0f/bgColorChanger)
 - [Live Project🌐](https://bgcolor-switcher.netlify.app/)
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/2f07ded9cf0ce854de380227b7b8fc99f139908d/HEX%20Color%20Generator">HEX Color Generator ✓</a></td>
-            <td><a href="https://hex-color-switcher.netlify.app/">Live Project🌐</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/pradyumn8/WebDev/tree/bc072d027fd74e68204b7d48526f9834fd37394e/HTML5%20Canvas">HTML5 Canvas ✓</a></td>
-            <td><a href="https://canvas-html5.netlify.app/">Live Project🌐</a></td>
-        </tr>
+
+### HEX Color Generator ✓
+- **Description:** Tool for generating HEX color codes.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/2f07ded9cf0ce854de380227b7b8fc99f139908d/HEX%20Color%20Generator)
+- [Live Project🌐](https://hex-color-switcher.netlify.app/)
+
+### HTML5 Canvas ✓
+- **Description:** Implementation of HTML5 Canvas features.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/bc072d027fd74e68204b7d48526f9834fd37394e/HTML5%20Canvas)
+- [Live Project🌐](https://canvas-html5.netlify.app/)
+
         <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/cd1e0a2a809d28f3bf75077d3ae3296eda42c8dd/btnRippleEffect">Button Ripple Effect ✓</a></td>
             <td><a href="https://ripple-effect-btn.netlify.app/">Live Project🌐</a></td>
@@ -162,4 +165,4 @@ Contributions are welcome! If you wish to contribute:
 
 ## Support
 
-If you encounter any issues or need further assistance, feel free to [reach out](mailto:youremail@example.com).
+If you encounter any issues or need further assistance, feel free to [reach out](mailto:pradyumnv8@gmail.com).
