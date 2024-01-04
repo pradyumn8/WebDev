@@ -26,7 +26,50 @@ Here is a list of templates included in this repository along with their live de
 - [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/af94505d2e194c2c56847c839dcbbfc940cfbd50/ContactForm)
 - [Live Project🌐](https://contacts-form.netlify.app/)
 
+### Price Card ✓
+- **Description:** Implementation of a price card display.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/7ac5f33da3392383c96f87f99a19e6204bdd6e06/PriceCard)
+- [Live Project🌐](https://pricescard.netlify.app/)
 
+### Product Item ✓
+- **Description:** Display of a product item layout.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/b928aa59a93bdaa90fc250054986746fec373c3f/ProductItem)
+- [Live Project🌐](https://product-item.netlify.app/)
+
+### Power Gym ✓
+- **Description:** Website layout for a gym/fitness center.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/4f42e02c915cc0e104503205aee100fd4efa751a/GymWebsite)
+- [Live Project🌐](https://power-gym-websit.netlify.app/)
+
+### MouseTrack ✓
+- **Description:** Implementation of a mouse tracking feature.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/451f0bca57739b8e06afbcf3fc5e5135332b5ea6/MouseTrack)
+- [Live Project🌐](https://mousetrack.netlify.app/)
+
+### BMI Calculater Application ✓
+- **Description:** Application for BMI calculation.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/00f016ee256f1570faa402fe5e6531e7a6ad1a3d/Key%20Events)
+- [Live Project🌐](https://interactive-keyevents.netlify.app/)
+
+### Interactive Key Events ✓
+- **Description:** Implementation of interactive key events.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/61cd0dfa77b347b57ffe54f19702d1f8dbf99c52/BMI%20Calculator)
+- [Live Project🌐](https://bmi-calculator-webapp.netlify.app/)
+
+### Password Strength Checker ✓
+- **Description:** Tool to check password strength.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/1cf5723f52b9ba7d06a24e550ea4a142f65d1404/pwdStrengthChecker)
+- [Live Project🌐](https://pwdstrengthchecker.netlify.app/)
+
+### Digital Piano Application ✓
+- **Description:** Implementation of a digital piano application.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/a9e1b6cfa5db73837daa5f80aa149dee22ccef36/Piano%20WebApp)
+- [Live Project🌐](https://digital-piano-app.netlify.app/)
+
+### Background Color Changer ✓
+- **Description:** Tool for changing background colors.
+- [GitHub Repository](https://github.com/pradyumn8/WebDev/tree/1d65999936d7356543b704a67424d1340cacfb0f/bgColorChanger)
+- [Live Project🌐](https://bgcolor-switcher.netlify.app/)
         <tr>
             <td><a href="https://github.com/pradyumn8/WebDev/tree/2f07ded9cf0ce854de380227b7b8fc99f139908d/HEX%20Color%20Generator">HEX Color Generator ✓</a></td>
             <td><a href="https://hex-color-switcher.netlify.app/">Live Project🌐</a></td>
